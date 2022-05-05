@@ -1,3 +1,3 @@
 # Imdat4fun-web:
 
-Ich bin Server Developer auf Imdat4fun, und habe diese template mit hilfe von Bootstrapmade gemacht, ich würde euch bitten, mich und den genannten Hoster zu erwähen, wenn ihr diese website nutzt.
+I'm Server Developer on Imdat4fun, and made this template using Bootstrapmade, I would ask you to mention me and the mentioned hoster if you use this website.
